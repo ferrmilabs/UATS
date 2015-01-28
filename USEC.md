@@ -34,5 +34,6 @@ La [página oficial](http://serviciosengenomica.inmegen.gob.mx/usec.html) enlist
   - alineación a referencia
   - control de calidad de la alineación
   - detección de variantes
+  - predicción de consecuencias funcionales de las variantes
   
   
