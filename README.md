@@ -20,7 +20,7 @@ procedimientos comunes.
 
 ## Pipelines
 - [Secuenciación](USEC.md)
-
+- [Microarreglos](UMI.md)
 
 ## Ligas a documentación oficial
 
