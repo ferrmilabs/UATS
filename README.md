@@ -24,8 +24,6 @@ procedimientos comunes.
 
 ## Ligas a documentación oficial
 
-- [Microarreglos](http://serviciosengenomica.inmegen.gob.mx/umi.html)
-
 - [Citometría de Flujo](http://serviciosengenomica.inmegen.gob.mx/ucif.html)
 
 - [Proteómica](http://serviciosengenomica.inmegen.gob.mx/upro.html)
